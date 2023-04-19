@@ -6,7 +6,7 @@ class Insertfmt < Formula
   license "MIT"
 
   def install
-    bin.install "insertfmt"    
+    bin.install "aarch64-apple-darwin-v1.0.2"    
   end
 
   test do
